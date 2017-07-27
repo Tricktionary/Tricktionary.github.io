@@ -13,7 +13,7 @@ $(document).ready(function(){
 			showCursor:false,
 		})
 		$(".about").typed({
-			strings: ["Studying Computer Science @Carleton","Learning Ruby","Waiting For Yeezys","Skateboarding",
+			strings: ["Studying Computer Science @Carleton","Learning Ruby on Rails","Trying to make the next million dollar idea","Skateboarding",
 			"Watching Videos on Youtube","Drinking Coffee","Programming","Waiting for the bus","Making Memes","Listening to Porter Robinson"
 			,"Watching Anime","Running","Travelling","Making a Goof"],
 			typeSpeed: 10,

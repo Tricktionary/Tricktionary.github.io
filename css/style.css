@@ -1,5 +1,8 @@
 /* Custom Stylesheet */
 
+.page-footer{
+  background-color: #1d2d47;
+}
 html{
   font-family: 'Lato', sans-serif !important;
   font-weight: 300;
