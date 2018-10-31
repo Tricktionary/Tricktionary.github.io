@@ -41,7 +41,7 @@ p {
 }
 
 .heightChange2 {
-  min-height: 500px !important;
+  min-height: 700px !important;
 }
 
 
@@ -59,7 +59,6 @@ p {
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
-    top: 40%;
   }
   #index-banner .section {
     top: 10%;
